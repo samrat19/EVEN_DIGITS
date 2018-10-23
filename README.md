@@ -10,15 +10,22 @@ Please help Supervin to determine the minimum number of button presses to make t
 
 Input: 
 
-4\n
-42\n
-11\n
-1\n
-2018\n
+4
+
+42
+
+11
+
+1
+
+2018
 
 Output:
 
-Case #1: 0\n
-Case #2: 3\n
-Case #3: 1\n
-Case #4: 2\n
+Case #1: 0
+
+Case #2: 3
+
+Case #3: 1
+
+Case #4: 2
